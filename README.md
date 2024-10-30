@@ -45,4 +45,4 @@ Shifting from using React and TypeScript to Django felt like a refreshing change
 Developing the coffee restaurant website with Django has been an insightful experience, deepening my understanding of web development frameworks. The ability to create a dynamic and customizable site with minimal code complexity is one of the significant advantages of using Django. I look forward to exploring more advanced features and expanding the website further in the coming weeks.
 
 My Coffee Restaurant website design can be viewed on my documentation screenshots since i developed locally.
-![View Here](https://docs.google.com/document/d/10VS-iGbj-6xq93hxnylVmtWANzfeWlr8a1gvOnbZqNQ/edit?usp=sharing)
+[View Here](https://docs.google.com/document/d/10VS-iGbj-6xq93hxnylVmtWANzfeWlr8a1gvOnbZqNQ/edit?usp=sharing)
