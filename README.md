@@ -1,9 +1,3 @@
-# Week4
-Coffee Shop
-Here's a draft for your Learning Journal Entry based on the coffee restaurant website you've developed using Django:
-
----
-
 # **Learning Journal Entry**
 ## Week 4: Coffee Restaurant Website Using Django
 
