@@ -2,8 +2,7 @@
 ## Week 4: Coffee Restaurant Website Using Django
 
 ### Project Overview
-This week, I transitioned from my previous assignments to develop a coffee restaurant website using Django, a high-level Python web framework that encourages rapid development and clean, pragmatic design. The goal of this project was to create a dynamic, customizable website for a coffee restaurant, incorporating essential pages and media to enhance the user experience and showcase the restaurant's offerings. Below is the homepage Design:
-![image](https://github.com/user-attachments/assets/d2ef5732-b95d-4610-a594-197f7d15ea7f)
+This week, I transitioned from my previous assignments to develop a coffee restaurant website using Django, a high-level Python web framework that encourages rapid development and clean, pragmatic design. The goal of this project was to create a dynamic, customizable website for a coffee restaurant, incorporating essential pages and media to enhance the user experience and showcase the restaurant's offerings.
 
 ### **Initial Thoughts**
 Shifting from using React and TypeScript to Django felt like a refreshing change, as Django provides a comprehensive framework with built-in features for handling common web development tasks. I aimed to create a unique website that not only looks appealing but also functions smoothly, allowing visitors to explore the coffee products offered by the restaurant. Understanding Django’s templating system and how to manage static and media files effectively was a primary focus.
@@ -45,4 +44,5 @@ Shifting from using React and TypeScript to Django felt like a refreshing change
 ### **Conclusion**
 Developing the coffee restaurant website with Django has been an insightful experience, deepening my understanding of web development frameworks. The ability to create a dynamic and customizable site with minimal code complexity is one of the significant advantages of using Django. I look forward to exploring more advanced features and expanding the website further in the coming weeks.
 
-[Here’s the link to my Coffee Restaurant website](http://127.0.0.1:8000/)
+My Coffee Restaurant website design can be viewed on my documentation screenshots since i developed locally.
+![View Here](https://docs.google.com/document/d/10VS-iGbj-6xq93hxnylVmtWANzfeWlr8a1gvOnbZqNQ/edit?usp=sharing)
